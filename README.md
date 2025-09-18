@@ -245,6 +245,14 @@ python predict_sample.py
 ```
 
 Expected output: three predicted categories (e.g. `SCIENCE`, `SPORTS`, `TECH`) — results depend on model and training.
+---
+
+Deferent models Result
+---
+
+Performance with deferent models 
+
+![Alt text](download.png)
 
 ---
 
