@@ -14,7 +14,7 @@ Manual categorization of news is slow and error-prone. This project demonstrates
 
 ## ✅ What's included
 
-* `DeepLearning_News_Classification.ipynb` — the main notebook (analysis, experiments, visualizations)
+* `news_model.h5` — pretrain model on 5,070 parameter
 * This `README.md` — setup and runnable code snippets
 * Instructions to run training, evaluation, saving and inference
 
